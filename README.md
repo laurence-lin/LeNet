@@ -1,7 +1,7 @@
 # LeNet
 first deep learning model working on MNIST hang written digit classification
 
-MNIST image size: 32*32*1
+MNIST image size: 32 * 32 * 1
 
 training samples: 50000
 
